@@ -1,4 +1,4 @@
 baseURL = 'http://poorlymadepoint.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+title = 'Poorly Made Point'
+theme = 'mini'
