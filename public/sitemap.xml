@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://poorlymadepoint.github.io/categories/</loc>
+    <loc>http://poorlymadepoint.github.io/posts/star-trek-picard-review/</loc>
+    <lastmod>2023-03-03T15:08:59-05:00</lastmod>
   </url><url>
     <loc>http://poorlymadepoint.github.io/</loc>
+    <lastmod>2023-03-03T15:08:59-05:00</lastmod>
+  </url><url>
+    <loc>http://poorlymadepoint.github.io/posts/</loc>
+    <lastmod>2023-03-03T15:08:59-05:00</lastmod>
+  </url><url>
+    <loc>http://poorlymadepoint.github.io/categories/</loc>
   </url><url>
     <loc>http://poorlymadepoint.github.io/tags/</loc>
   </url>
