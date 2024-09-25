@@ -1,0 +1,8 @@
++++
+date = "2024-08-23"
+categories = ["long"]
+title = "Tech Conference Woes, or Who Wants to be a Drug Addict?"
+summary = "Where I was picked--volun-told as they put it (cringe)--out of a sea of people to be a drug addict in an enactment of the patient experience. And what followed."
++++
+
+{{< figure src="/comics/Drug_Addict_Sign.png" type="full" >}}
