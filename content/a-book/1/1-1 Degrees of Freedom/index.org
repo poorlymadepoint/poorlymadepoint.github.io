@@ -2,9 +2,9 @@
 title = "Chapter 1. Degrees of Freedom DRAFT"
 +++
 
-{{< figure src="1.png" loading="eager" >}}
-{{< figure src="2.png" loading="eager" >}}
-{{< figure src="3.png" loading="eager" >}}
+{{< figure src="1.png"  >}}
+{{< figure src="2.png"  >}}
+{{< figure src="3.png"  >}}
 {{< figure src="4.png" loading="lazy" >}}
 {{< figure src="5.png" loading="lazy" >}}
 {{< figure src="6.png" loading="lazy" >}}

@@ -12,7 +12,7 @@ baseurl: "https://hugo-tufte.netlify.app/"
 title: "The Poorly Made Point"
 canonifyurls: true
 # Number of posts per page on the home page
-paginate: 5
+paginate: 50
 
 # Only modify the following if you know what you are doing
 markup:
@@ -89,7 +89,7 @@ menu:
       weight: -100
       identifier: posts
       url: /posts/
-    - name: Design Comic Book
+    - name: Design Book
       weight: -95
       identifier: book
       url: /a-book/
@@ -101,6 +101,10 @@ menu:
       weight: -80
       identifier: about
       url: /about/
+    - name: RSS
+      weight: -70
+      identifier: rss
+      url: /posts/index.xml
 # -----------------------------------------------------------------------
 # FOOTER MENU
 # If you need to add custom links to you footer: put them here.

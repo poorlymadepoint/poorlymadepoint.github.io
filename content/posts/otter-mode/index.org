@@ -1,0 +1,8 @@
++++
+date = "2024-09-25"
+title = "Otter Mode"
+categories = "Short"
+summary = "What's vibrating?"
++++
+
+{{< figure src="/comics/otter-mode.png" type="full" >}}
