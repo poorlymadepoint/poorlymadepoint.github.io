@@ -1,0 +1,8 @@
++++
+date = "2024-09-24"
+title = "Vote... nevermind"
+categories = "Short"
+summary = "Where I realized my vote didn't count."
++++
+
+{{< figure src="/comics/vote.png" type="full" >}}
