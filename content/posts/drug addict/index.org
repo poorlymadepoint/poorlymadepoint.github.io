@@ -5,4 +5,15 @@ title = "Tech Conference Woes, or Who Wants to be a Drug Addict?"
 summary = "Where I was picked--volun-told as they put it (cringe)--out of a sea of people to be a drug addict in an enactment of the patient experience. And what followed."
 +++
 
+{{< figure src="/comics/drug-addict-1.png" type="full" >}}
+{{< figure src="/comics/drug-addict-2.png" type="full" >}}
+{{< figure src="/comics/drug-addict-3.png" type="full" >}}
+{{< figure src="/comics/drug-addict-4.png" type="full" >}}
+{{< figure src="/comics/drug-addict-5.png" type="full" >}}
+{{< figure src="/comics/drug-addict-6.png" type="full" >}}
+{{< figure src="/comics/drug-addict-7.png" type="full" >}}
+{{< figure src="/comics/drug-addict-8.png" type="full" >}}
+{{< figure src="/comics/drug-addict-9.png" type="full" >}}
+
+
 {{< figure src="/comics/Drug_Addict_Sign.png" type="full" >}}
