@@ -3,15 +3,15 @@ title = "Chapter 1. Degrees of Freedom DRAFT"
 +++
 
 
-{{< figure src="pages/1.png"  >}}
-{{< figure src="pages/2.png"  >}}
-{{< figure src="pages/3.png"  >}}
-{{< figure src="pages/4.png" loading="lazy" >}}
-{{< figure src="pages/5.png" loading="lazy" >}}
-{{< figure src="pages/6.png" loading="lazy" >}}
-{{< figure src="pages/7.png" loading="lazy" >}}
-{{< figure src="pages/8.png" loading="lazy" >}}
-{{< figure src="pages/9.png" loading="lazy" >}}
+{{< figure src="pages/01.png" loading="lazy" >}}
+{{< figure src="pages/02.png" loading="lazy" >}}
+{{< figure src="pages/03.png" loading="lazy" >}}
+{{< figure src="pages/04.png" loading="lazy" >}}
+{{< figure src="pages/05.png" loading="lazy" >}}
+{{< figure src="pages/06.png" loading="lazy" >}}
+{{< figure src="pages/07.png" loading="lazy" >}}
+{{< figure src="pages/08.png" loading="lazy" >}}
+{{< figure src="pages/09.png" loading="lazy" >}}
 {{< figure src="pages/10.png" loading="lazy" >}}
 {{< figure src="pages/11.png" loading="lazy" >}}
 {{< figure src="pages/12.png" loading="lazy" >}}
