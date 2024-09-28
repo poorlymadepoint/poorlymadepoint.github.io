@@ -14,6 +14,3 @@ summary = "Where I was picked--volun-told as they put it (cringe)--out of a sea 
 {{< figure src="/comics/drug-addict-7.png" type="full" >}}
 {{< figure src="/comics/drug-addict-8.png" type="full" >}}
 {{< figure src="/comics/drug-addict-9.png" type="full" >}}
-
-
-{{< figure src="/comics/Drug_Addict_Sign.png" type="full" >}}
