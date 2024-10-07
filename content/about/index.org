@@ -2,7 +2,7 @@
 title = "About This Site"
 +++
 
-I call myself an Interaction Designer even though I don't think that's a thing anymore. It's long been supplanted by terms like UI and UX. I learned design in a similar way that I learned to code, on paper. Screens are just one medium to connect people to each other and to larger communities, cultures, and world views. What UI and UX leave behind are the basic arts of design--thoughtfulness, empathy, and a pluralist view of the world that believes every new opinion gets us closer to a more accurate view of the world. By creating a new crop of designers focused on auto-layouts and color theory, we kind of buried the lede and our products and services started becoming avenues to drive traffic and revenue rather than build a better world for humans.
+I call myself an Interaction Designer even though I don't think that's a thing anymore. It's long been supplanted by terms like UI and UX. I learned design in a similar way that I learned to code, on paper. Screens are just one medium to connect people to each other and to larger communities, cultures, and world views. What UI and UX leave behind are the basic arts of design--thoughtfulness, empathy, and a pluralistic view that believes every new opinion gets us closer to a more accurate view of the world. By creating a new crop of designers focused on auto-layouts and color theory, we kind of buried the lede and our products and services started becoming avenues to drive traffic and revenue rather than build a better world for humans.
 
 This is basically my safe space where I can let a little bit of humanity poke out of my hardened exterior from being in tech for too many years.
 
